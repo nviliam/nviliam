@@ -2,8 +2,7 @@
 - 👀 I’m interested in learning anything about programming.
 - 🌱 I’m currently learning HTML, CSS, JavaScript at ProgMasters. 
 - 💞️ I’m looking to collaborate on any simple related projects where I can gain practical experience and help.
-- 📫 How to reach me nviliam7@gmail.com.
-- 😄 Pronouns: ...
+- 📫 You can reach me at nviliam7@gmail.com.
 - ⚡ Fun fact: I'am working as a soccer analyst.
 
 <!---
